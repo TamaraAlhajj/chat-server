@@ -1,0 +1,25 @@
+<!doctype html>
+<!Tamara Alhajj, 100948027, COMP2406, Assignment 3>
+<html>
+	<head>
+		<meta charset = "utf8"/>
+		<title>Chat Room</title>
+		<script src="/socket.io/socket.io.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+		<link rel="stylesheet" href="./style.css" type="text/css">
+		<script src="client.js"></script>
+	</head>
+	<body>
+		<h1>(^=◕ᴥ◕=^) CHAT (^=◕ᴥ◕=^)</h1>
+		<div id="contents">
+			<div id="chatLogDiv">
+				<textarea id="chatLog" placeholder="CHAT IT UP!" cols="30" rows="5"></textarea>
+				<input id="inputText">
+			</div>
+			<div id="userListDiv">
+				<p>USERS</p>
+				<ul id="userList"></ul>
+			</div>
+		</div>
+	</body>
+</html>
