@@ -1,8 +1,5 @@
 # Node JS Chat Server
 
-Author: Tamara Alhajj<br>
-Student Number: 100948027<br>
-
 ## Setup and Run
 * Unzip file
 * within node command prompt type "node server.js"
@@ -19,6 +16,8 @@ Student Number: 100948027<br>
 		* However user can see who they blocked. The blocked user's name is strked through
 
 ## Developed
-	* OS: Windows
-	* Browser: Chrome
-	* For COMP2406, Prof. Runka
+	OS: Windows
+	Browser: Chrome
+	
+	Author: Tamara Alhajj
+	For COMP2406, Prof. Runka
