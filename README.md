@@ -19,4 +19,3 @@ User is not shown who blocks them, but can see who they blocked with a strike th
 	Browser: Chrome
 	
 	Author: Tamara Alhajj
-	For COMP2406, Prof. Runka
