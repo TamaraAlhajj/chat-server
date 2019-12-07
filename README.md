@@ -1,4 +1,5 @@
-# Node JS Chat Server
+# le petit chat
+Node JS Chat Server
 
 ## Setup and Run
 * Unzip file
